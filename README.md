@@ -1,4 +1,4 @@
-# AccompTrainy
+# 🚆 AccompTrainy ✨
 
 Accomptrainy is a high-fidelity mobile application designed to solve a critical challenge: university student safety during late-night commutes. Built entirely within Figma, this project demonstrates an end-to-end UI/UX process focused on providing real-time accompaniment and peace of mind for students navigating campus and urban environments after dark.
 
